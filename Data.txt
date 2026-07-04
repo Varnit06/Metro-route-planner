@@ -153,3 +153,41 @@ Violet, Bata Chowk, Escorts Mujesar, 2, No
 Violet, Escorts Mujesar, Sant Surdas (Sihi), 2, No
 Violet, Sant Surdas (Sihi), Raja Nahar Singh, 2, No
 Violet, Raja Nahar Singh, Nil, 0, No
+Pink, Majlis Park, Azadpur, 2, No
+Pink, Azadpur, Shalimar Bagh, 2, Yes
+Pink, Shalimar Bagh, Netaji Subhash Place, 2, No
+Pink, Netaji Subhash Place, Shakurpur, 2, Yes
+Pink, Shakurpur, Punjabi Bagh West, 2, No
+Pink, Punjabi Bagh West, ESI Hospital, 2, Yes
+Pink, ESI Hospital, Rajouri Garden, 2, No
+Pink, Rajouri Garden, Mayapuri, 2, Yes
+Pink, Mayapuri, Naraina Vihar, 2, No
+Pink, Naraina Vihar, Delhi Cantt, 2, No
+Pink, Delhi Cantt, Durgabai Deshmukh South Campus, 2, Yes
+Pink, Durgabai Deshmukh South Campus, Sir Vishweshwaraiah Moti Bagh, 2, No
+Pink, Sir Vishweshwaraiah Moti Bagh, Bhikaji Cama Place, 2, No
+Pink, Bhikaji Cama Place, Sarojini Nagar, 2, No
+Pink, Sarojini Nagar, INA, 2, Yes
+Pink, INA, South Extension, 2, Yes
+Pink, South Extension, Lajpat Nagar, 2, Yes
+Pink, Lajpat Nagar, Vinobapuri, 2, Yes
+Pink, Vinobapuri, Ashram, 2, No
+Pink, Ashram, Hazrat Nizamuddin, 2, No
+Pink, Hazrat Nizamuddin, Mayur Vihar-1, 2, No
+Pink, Mayur Vihar-1, Mayur Vihar Pocket I, 2, Yes
+Pink, Mayur Vihar Pocket I, Trilokpuri Sanjay Lake, 2, No
+Pink, Trilokpuri Sanjay Lake, East Vinod Nagar - Mayur Vihar-II, 2, No
+Pink, East Vinod Nagar - Mayur Vihar-II, Mandawali - West Vinod Nagar, 2, No
+Pink, Mandawali - West Vinod Nagar, IP Extension, 2, No
+Pink, IP Extension, Anand Vihar, 2, Yes
+Pink, Anand Vihar, Karkarduma, 2, Yes
+Pink, Karkarduma, Karkarduma Court, 2, Yes
+Pink, Karkarduma Court, Krishna Nagar, 2, No
+Pink, Krishna Nagar, East Azad Nagar, 2, No
+Pink, East Azad Nagar, Welcome, 2, Yes
+Pink, Welcome, Jaffrabad, 2, Yes
+Pink, Jaffrabad, Maujpur - Babarpur, 2, Yes
+Pink, Maujpur - Babarpur, Gokulpuri, 2, Yes
+Pink, Gokulpuri, Johri Enclave, 2, No
+Pink, Johri Enclave, Shiv Vihar, 2, No
+Pink, Shiv Vihar, Nil, 0, No
