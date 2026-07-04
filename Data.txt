@@ -83,3 +83,39 @@ Blue, Noida Sector 61, Noida Sector 59, 2, No
 Blue, Noida Sector 59, Noida Sector 62, 2, No
 Blue, Noida Sector 62, Noida Electronic City, 2, No
 Blue, Noida Electronic City, Nil, 0, No
+Yellow, Samaypur Badli, Rohini Sector 18-19, 2, No
+Yellow, Rohini Sector 18-19, Haiderpur Badli Mor, 2, No
+Yellow, Haiderpur Badli Mor, Jahangirpuri, 2, No
+Yellow, Jahangirpuri, Adarsh Nagar, 2, No
+Yellow, Adarsh Nagar, Azadpur, 2, No
+Yellow, Azadpur, Model Town, 2, Yes
+Yellow, Model Town, Guru Tegh Bahadur Nagar, 2, No
+Yellow, Guru Tegh Bahadur Nagar, Vishwavidyalaya, 2, No
+Yellow, Vishwavidyalaya, Vidhan Sabha, 2, No
+Yellow, Vidhan Sabha, Civil Lines, 2, No
+Yellow, Civil Lines, Kashmere Gate, 2, No
+Yellow, Kashmere Gate, Chandni Chowk, 2, Yes
+Yellow, Chandni Chowk, Chawri Bazar, 2, No
+Yellow, Chawri Bazar, New Delhi, 2, No
+Yellow, New Delhi, Rajiv Chowk, 2, Yes
+Yellow, Rajiv Chowk, Patel Chowk, 2, Yes
+Yellow, Patel Chowk, Central Secretariat, 2, No
+Yellow, Central Secretariat, Udyog Bhawan, 2, Yes
+Yellow, Udyog Bhawan, Lok Kalyan Marg, 2, No
+Yellow, Lok Kalyan Marg, Dilli Haat, 2, No
+Yellow, Dilli Haat, AIIMS, 2, Yes
+Yellow, AIIMS, Green Park, 2, No
+Yellow, Green Park, Hauz Khas, 2, No
+Yellow, Hauz Khas, Malviya Nagar, 2, Yes
+Yellow, Malviya Nagar, Saket, 2, No
+Yellow, Saket, Qutub Minar, 3, No
+Yellow, Qutub Minar, Chhatarpur, 3, No
+Yellow, Chhatarpur, Sultanpur, 2, No
+Yellow, Sultanpur, Ghitorni, 3, No
+Yellow, Ghitorni, Arjan Garh, 3, No
+Yellow, Arjan Garh, Guru Dronacharya, 2, No
+Yellow, Guru Dronacharya, Sikanderpur, 2, No
+Yellow, Sikanderpur, MG Road, 2,Yes
+Yellow, MG Road, IFFCO Chowk, 2, No
+Yellow, IFFCO Chowk, Millennium City Centre Gurugram, 3, No
+Yellow, Millennium City Centre Gurugram, Nil, 0, No
