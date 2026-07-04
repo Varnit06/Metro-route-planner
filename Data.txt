@@ -119,3 +119,37 @@ Yellow, Sikanderpur, MG Road, 2,Yes
 Yellow, MG Road, IFFCO Chowk, 2, No
 Yellow, IFFCO Chowk, Millennium City Centre Gurugram, 3, No
 Yellow, Millennium City Centre Gurugram, Nil, 0, No
+Violet, Kashmere Gate, Lal Qila, 2, Yes
+Violet, Lal Qila, Jama Masjid, 2, No
+Violet, Jama Masjid, Delhi Gate, 2, No
+Violet, Delhi Gate, ITO, 2, No
+Violet, ITO, Mandi House, 2, Yes
+Violet, Mandi House, Janpath, 2, Yes
+Violet, Janpath, Central Secretariat, 2, Yes
+Violet, Central Secretariat, Khan Market, 2, Yes
+Violet, Khan Market, Jawaharlal Nehru Stadium, 2, No
+Violet, Jawaharlal Nehru Stadium, Jangpura, 2, No
+Violet, Jangpura, Lajpat Nagar, 2, Yes
+Violet, Lajpat Nagar, Moolchand, 2, Yes
+Violet, Moolchand, Kailash Colony, 2, No
+Violet, Kailash Colony, Nehru Place, 2, Yes
+Violet, Nehru Place, Kalkaji Mandir, 2, Yes
+Violet, Kalkaji Mandir, Govind Puri, 2, Yes
+Violet, Govind Puri, Harkesh Nagar Okhla, 2, No
+Violet, Harkesh Nagar Okhla, Jasola Apollo, 2, No
+Violet, Jasola Apollo, Sarita Vihar, 2, No
+Violet, Sarita Vihar, Mohan Estate, 2, No
+Violet, Mohan Estate, Tughlakabad, 2, No
+Violet, Tughlakabad, Badarpur Border, 2, No
+Violet, Badarpur Border, Sarai, 2, No
+Violet, Sarai, NHPC Chowk, 2, No
+Violet, NHPC Chowk, Mewala Maharajpur, 2, No
+Violet, Mewala Maharajpur, Sector 28 Faridabad, 2, No
+Violet, Sector 28 Faridabad, Badkhal Mor, 2, No
+Violet, Badkhal Mor, Old Faridabad, 2, No
+Violet, Old Faridabad, Neelam Chowk Ajronda, 2, No
+Violet, Neelam Chowk Ajronda, Bata Chowk, 2, No
+Violet, Bata Chowk, Escorts Mujesar, 2, No
+Violet, Escorts Mujesar, Sant Surdas (Sihi), 2, No
+Violet, Sant Surdas (Sihi), Raja Nahar Singh, 2, No
+Violet, Raja Nahar Singh, Nil, 0, No
